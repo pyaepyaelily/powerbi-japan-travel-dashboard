@@ -56,8 +56,8 @@ The goal of this project was to transform raw travel records into an interactive
 ### Japan Progress
 ![Japan Progress](screenshots/japan-progress.png)
 
-### Seasonal Analysis
-![Seasonal Analysis](screenshots/season-analysis.png)
+### Travel Insights
+![Travel Insights](screenshots/travel-insights.png)
 
 ---
 
@@ -76,11 +76,9 @@ The goal of this project was to transform raw travel records into an interactive
 
 ## 📁 Repository Contents
 
-├── PowerBI_Japan_Travel_Dashboard.pbix
+├── Japan_Travel.pbix
 
 ├── screenshots/
-
-├── sample-data/
 
 └── README.md
 
